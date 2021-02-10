@@ -1,0 +1,56 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: seritandrei.github.io
+Label: seritandrei.github.io
+Codename: buster
+Date: Wed, 10 Feb 2021 02:09:59 UTC
+Architectures: i386 amd64
+Components: main
+Description: example repo
+MD5Sum:
+ 4f386d9363e638458fdb9549276515c5 426 main/binary-i386/Packages
+ 1f3a48b60a9817ca21208c878a992872 322 main/binary-i386/Packages.gz
+ c85031d82ffc0c441896d8b1abad473e 120 main/binary-i386/Release
+ 4f386d9363e638458fdb9549276515c5 426 main/binary-amd64/Packages
+ 1f3a48b60a9817ca21208c878a992872 322 main/binary-amd64/Packages.gz
+ 05e45f0a346a6a6ae6e19fd8589bff73 121 main/binary-amd64/Release
+ d41d8cd98f00b204e9800998ecf8427e 0 main/source/Sources
+ 7029066c27ac6f5ef18d660d5741979a 20 main/source/Sources.gz
+ 5a660efd68c7ed1891941230b06e9c7a 122 main/source/Release
+SHA1:
+ 7f9902ec841023f8433563f481e31e35f604bb90 426 main/binary-i386/Packages
+ 6776b5cd9cfe5be2cb53220a6587cc5f860f1711 322 main/binary-i386/Packages.gz
+ 2a1130da1057004433db7054777d0b121d0ca6a5 120 main/binary-i386/Release
+ 7f9902ec841023f8433563f481e31e35f604bb90 426 main/binary-amd64/Packages
+ 6776b5cd9cfe5be2cb53220a6587cc5f860f1711 322 main/binary-amd64/Packages.gz
+ 885734512d123a0395d6ff47a5b6b4386af6c98b 121 main/binary-amd64/Release
+ da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/source/Sources
+ 46c6643f07aa7f6bfe7118de926b86defc5087c4 20 main/source/Sources.gz
+ b563147530aed6eb7e33c89c93e8f81e17524c5a 122 main/source/Release
+SHA256:
+ c7d6ff5eb4708e3646e621eb786052124d124e268051858e81f93835818cb5de 426 main/binary-i386/Packages
+ 98c3e4a9c745d4ff1c9ebbd2598b84ef2adfa48e2a135e0ae3c1a282aadaab8b 322 main/binary-i386/Packages.gz
+ c9e1cea20203d928cdd715895ef2e22349149e59302cb8647afaea4c9907e107 120 main/binary-i386/Release
+ c7d6ff5eb4708e3646e621eb786052124d124e268051858e81f93835818cb5de 426 main/binary-amd64/Packages
+ 98c3e4a9c745d4ff1c9ebbd2598b84ef2adfa48e2a135e0ae3c1a282aadaab8b 322 main/binary-amd64/Packages.gz
+ e3a11998b191542578f99028422baa84aed28b434d165512087cec6a026a07e1 121 main/binary-amd64/Release
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/source/Sources
+ 59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 main/source/Sources.gz
+ 755e8b67767dc5f1b86e0e346d5c9763ae6f019644568bb08bb5b5b15c92c875 122 main/source/Release
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEEps0xkKtfBr1zeGL5YehIv/lKN0UFAmAjQIAACgkQYehIv/lK
+N0XJrA/7Bg0fseRSZdLycoCoLMR1tYql3jcwJBS0nXNtrq4kt5aPntxdJ2g911zq
+rrG2QOC6vzFqBu33j1QtvBU3HPD7+jdz1oCgWqusKJmukd24Z5kOWDwgDqAekmPk
+Zy6mVXrny4+KYdKf/4qLfgYmbaLYQabWICkEn/vC9arnUsHw4Cl3xUuVevBStrM/
+WQwWia5U987tQM2kknPpK84pXXpPzTqCcbYiB73aoDIBrmdzds9hpgbYvqPigcPj
+OjTUenqQF+zvCajNHdhRYRhLkEd/pyk77hT/EIt1Qt8I0Fs9FTKKDOeOn4Mcnw0B
+tB5ZeDbCmpUNIt9hxR/qflX/Ul78x+TFGZDa3kfLtghdv6uFzezWESgTtGD/ThNi
+5Pp4FeaOWu2ZxmgmYn+LiMmECdsmakB3uqUix89JUSSSCKzy9Ij1JdKY+GyEVM7p
+jbl9wgtw9SJyEI2qRbzIuBiqb64mScvTVekhlg3bmuRJxSPKLLK7vJ8adWAbuN5f
+0earULZtPBoug8ncxBSfKJ6GXk8XoYHjjZKW9sN+gH/CoIWxiOHcCYhUvuQVwl2J
+7z9nbbtrBPrMHByRmO16tANthXIhCJfNtGpdfa4CA8n6EqxSOzFL5RcDLog06lxT
+75oPiXgdFGhLetDbVF1EEtpI4UVfPE8KOnr7J57ZNL23qF23fc4=
+=WzFL
+-----END PGP SIGNATURE-----

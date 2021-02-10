@@ -1,0 +1,15 @@
+Package: hello-odin
+Version: 1.0
+Architecture: all
+Essential: no
+Installed-Size: 1024
+Maintainer: odin.org
+Priority: optional
+Section: custom
+Filename: pool/main/h/hello-odin/hello-odin_1.0_all.deb
+Size: 616428
+SHA256: 574200356c3cd1785963b79a5c885f9e25dd925188db3758a937a9176ae09e95
+SHA1: 12cf29ab8e8ca309da4db256f90428adf2d9e3ee
+MD5sum: e7081360316e2b0360aff16814bb5e5c
+Description: Greets the odin user using this package
+

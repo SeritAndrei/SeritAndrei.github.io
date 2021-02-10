@@ -1,0 +1,7 @@
+Origin: seritandrei.github.io
+Label: seritandrei.github.io
+Codename: buster
+Architectures: i386 amd64 source
+Components: main
+Description: example repo
+SignWith: default 
