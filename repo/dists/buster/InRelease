@@ -4,7 +4,7 @@ Hash: SHA512
 Origin: seritandrei.github.io
 Label: seritandrei.github.io
 Codename: buster
-Date: Wed, 10 Feb 2021 02:09:59 UTC
+Date: Wed, 10 Feb 2021 02:30:08 UTC
 Architectures: i386 amd64
 Components: main
 Description: example repo
@@ -40,17 +40,17 @@ SHA256:
  755e8b67767dc5f1b86e0e346d5c9763ae6f019644568bb08bb5b5b15c92c875 122 main/source/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEEps0xkKtfBr1zeGL5YehIv/lKN0UFAmAjQIAACgkQYehIv/lK
-N0XJrA/7Bg0fseRSZdLycoCoLMR1tYql3jcwJBS0nXNtrq4kt5aPntxdJ2g911zq
-rrG2QOC6vzFqBu33j1QtvBU3HPD7+jdz1oCgWqusKJmukd24Z5kOWDwgDqAekmPk
-Zy6mVXrny4+KYdKf/4qLfgYmbaLYQabWICkEn/vC9arnUsHw4Cl3xUuVevBStrM/
-WQwWia5U987tQM2kknPpK84pXXpPzTqCcbYiB73aoDIBrmdzds9hpgbYvqPigcPj
-OjTUenqQF+zvCajNHdhRYRhLkEd/pyk77hT/EIt1Qt8I0Fs9FTKKDOeOn4Mcnw0B
-tB5ZeDbCmpUNIt9hxR/qflX/Ul78x+TFGZDa3kfLtghdv6uFzezWESgTtGD/ThNi
-5Pp4FeaOWu2ZxmgmYn+LiMmECdsmakB3uqUix89JUSSSCKzy9Ij1JdKY+GyEVM7p
-jbl9wgtw9SJyEI2qRbzIuBiqb64mScvTVekhlg3bmuRJxSPKLLK7vJ8adWAbuN5f
-0earULZtPBoug8ncxBSfKJ6GXk8XoYHjjZKW9sN+gH/CoIWxiOHcCYhUvuQVwl2J
-7z9nbbtrBPrMHByRmO16tANthXIhCJfNtGpdfa4CA8n6EqxSOzFL5RcDLog06lxT
-75oPiXgdFGhLetDbVF1EEtpI4UVfPE8KOnr7J57ZNL23qF23fc4=
-=WzFL
+iQIzBAEBCgAdFiEEps0xkKtfBr1zeGL5YehIv/lKN0UFAmAjRTcACgkQYehIv/lK
+N0W8KQ//V+5yb+iLyVs5kEchDjgxk4MgFLo8d3Hk5oPf2Ma17tJ031sGO0+lIRnF
+48pJpn1DNF1kGRAgf8K3CO/gY3l2YnYQUDLjLePYYcZZwFxmxPVvgfHbWtX+grEd
++n4M/n5wt7g7XMD+VA9v6rNI+Io+7fFnmAu8/G/9JAeAtn++UseYEna/mQt4Sry/
+OUBY8/JUgsfy9sq6/WCVDXdkt1Y+rR8ddCtgsMCL+c2ZletrpFTBRU6Z4JWkwVz6
+vz4hZ4O+l1nW7J2Ldu84lSwQRWvRYRuHwFmsoUjmXx/fOwBQ5/urJPe+ngOR18fj
+OTwANaXac+40DDazke3BGxO3I7labBUKkoDROQGPWakdvLaFk2+q9OvBw5RCAZdv
+PLXat2RaRSI3OQruw5/W8ma/4are0dMSeczRt6eUjwJv9JAcmjZVUwVnsQvQywfq
+1Rx4wFaJ5snWnbwbcEbKOYiXfreZ7YYGceVnOmOXFSuIgQ7CvDICAAONtZJti6tU
+9mR9vMwqsuxryUH/SeoGe1eI1Vbtpao0yReaNqAGNOTbs9KgJ1aw2e/cS8PiLwCO
+1iXVlWHdHRBGbBaD62CEwRgqnQW59d4rhi/pxG3HoDYPKkplBQdVvzgUkrYQGTWX
+zRalVSjoqr48mr80vrFTtYs6rXrYT4Fe1w/6FHJFjGCTd01c/XU=
+=pXUx
 -----END PGP SIGNATURE-----
